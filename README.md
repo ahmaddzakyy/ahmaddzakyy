@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Nothing (lol)
 - 📫 How to reach me:
 - Discord: ahmd1708.
--  
 
 <!---
 breadhandsome15048/breadhandsome15048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
