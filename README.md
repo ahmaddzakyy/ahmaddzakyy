@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Ahmad :3
-- 👀 I’m interested in Computer Software
+- 👋 Hi, I’m Ahmad
+- 👀 I’m interested in Computer Network
 - 🌱 I’m currently learning Nothing (lol)
 - 📫 How to reach me:
-- Discord: Ahmad 15048#7193
-- Youtube: https://www.youtube.com/channel/UCH-kEEQJM_YXOTgIBMuhkVQ
-- 
+- Discord: ahmd1708.
+-  
 
 <!---
 breadhandsome15048/breadhandsome15048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
